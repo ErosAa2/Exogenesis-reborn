@@ -2,7 +2,7 @@ displayName: "Exogenesis"
 name: "Exogenesis"
 author: "AureusStratus"
 main: "Exogenesis.Exogenesis"
-description: "A big mod will with alot of stuff."
+description: "e"
 dependencies: [
 black-hole-renderer
 ]
